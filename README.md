@@ -10,6 +10,6 @@ be streamlined because there was a numerous amounts of repeated code.
 
 The deployed application and be found at https://jonjon276.github.io/hw1/
 
-```md
-    ![alt text](assets/images/application-screenshot.png)
-    ```
+
+    ![screenshot of horiseon app](assets/images/application-screenshot.png)
+    
