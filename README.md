@@ -11,5 +11,4 @@ be streamlined because there was a numerous amounts of repeated code.
 The deployed application and be found at https://jonjon276.github.io/hw1/
 
 
-    ![image](https://github.com/jonjon276/hw1/blob/main/assets/images/application-screenshot.png)
-    
+   <img src="./assets/images/application-screenshot.png">
